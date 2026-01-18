@@ -169,6 +169,13 @@
             line-height: 1.9;
         }
 
+        .about-image img {
+            width: 100%;
+            max-width: 300px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
         .about-image {
             width: 100%;
             height: 500px;
